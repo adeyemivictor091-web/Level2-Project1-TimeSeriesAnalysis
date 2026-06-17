@@ -1,0 +1,12 @@
+1. Stock Price Trend Analysis
+The time series plot of Apple Inc. (AAPL) closing stock prices revealed noticeable fluctuations over the analysis period. Despite short-term volatility, the stock generally exhibited a long-term trend, reflecting changes in market performance and investor sentiment over time.
+2. Trend Component
+The decomposition analysis highlighted the underlying trend in the stock price series. The trend component smoothed out daily fluctuations and revealed the broader direction of the stock's movement, making it easier to identify periods of growth and decline.
+3. Seasonal Component
+The seasonal component showed recurring patterns within the stock price series. While stock prices are primarily influenced by market dynamics, the decomposition process identified cyclical movements that repeated over the specified period.
+4. Residual Component
+The residual component captured irregular fluctuations that could not be explained by either the trend or seasonal patterns. These residual variations may be attributed to unexpected market events, economic announcements, company-specific news, or investor reactions.
+5. Moving Average Analysis
+A 30-day moving average was applied to smooth short-term price fluctuations. The moving average line effectively reduced market noise and provided a clearer view of the underlying trend. Comparing the actual closing prices with the moving average demonstrated how smoothing techniques can improve the interpretation of time series data.
+6. Overall Observation
+The analysis demonstrates that stock prices consist of multiple components, including long-term trends, recurring patterns, and random fluctuations. Time series decomposition and moving average smoothing are valuable techniques for understanding these components and supporting data-driven financial analysis.
