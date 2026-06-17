@@ -1,0 +1,8 @@
+
+This project successfully applied time series analysis techniques to historical stock price data using Python, Pandas, Matplotlib, and Statsmodels.
+
+The stock price series was visualised to identify patterns and trends over time. Through time series decomposition, the data was separated into trend, seasonal, and residual components, providing deeper insight into the factors influencing stock price movements. Additionally, moving average smoothing was applied to reduce short-term volatility and highlight the underlying market trend.
+
+The results demonstrate the effectiveness of time series analysis techniques in uncovering meaningful patterns within financial data. These methods are widely used in financial analytics, forecasting, risk management, and investment decision-making.
+
+Overall, the project provided practical experience in handling time-indexed data and strengthened key data analysis skills, including visualisation, trend analysis, decomposition, and data interpretation.
